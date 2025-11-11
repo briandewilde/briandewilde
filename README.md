@@ -10,4 +10,4 @@ Although most of my contributions have historically been in **closed-source proj
 
 One of major feature I worked on is **Zero Downtime Migration**. You can check it out here:  
 
-- Draft PR: [[[link](https://github.com/briandewilde/hadoop)](#)  ](https://github.com/briandewilde/hadoop)
+- [Draft PR](https://github.com/briandewilde/hadoop/pull/1)
