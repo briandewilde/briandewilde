@@ -2,7 +2,7 @@
 
 I've been a software engineer for over **15 years**, with experience at companies like **Oracle**, **Volkswagen**, **VSP**, and now **LinkedIn**.  
 
-Although most of my contributions have historically been in **closed-source projects**, my current role at LinkedIn offers the privilege of contributing to open source.  
+Although most of my contributions have historically been in **closed-source projects**, my current role at LinkedIn offers the privilege of contributing a portion of my work to open source.  
 
 ---
 
